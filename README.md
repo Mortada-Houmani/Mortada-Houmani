@@ -59,7 +59,7 @@
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr style="background: none; border: none;">
       <td colspan="2" align="center" style="border: none; background: none; padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mortada-Houmani&theme=tokyonight&background=0D0B14&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=E9D5FF&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=9CA3AF&border=7E22CE" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mortada-Houmani&theme=tokyonight&background=0D0B14&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=E9D5FF&currStreakNum=E9D5FF&sideNums=E9D5FF&dates=9CA3AF&border=7E22CE&cache=1" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
