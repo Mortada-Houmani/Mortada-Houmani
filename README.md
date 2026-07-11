@@ -13,62 +13,17 @@
 
 ---
 
-<div align="center">
-  <table style="border: 1px solid #7E22CE; border-radius: 8px; background-color: #0D0B14; width: 100%; max-width: 600px; border-spacing: 0;">
-    <tr style="background-color: #1A1625;">
-      <td style="padding: 10px; border-bottom: 1px solid #7E22CE; border-radius: 8px 8px 0 0;">
-        <span style="color: #EF4444;">●</span>
-        <span style="color: #F59E0B;">●</span>
-        <span style="color: #10B981;">●</span>
-        <span style="color: #C084FC; font-family: monospace; font-size: 13px; margin-left: 10px;">mortada@cloud:~</span>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 20px; font-family: monospace; color: #E9D5FF; font-size: 14px; background-color: #0D0B14; border-radius: 0 0 8px 8px; line-height: 1.5;">
-        <span style="color: #C084FC;">$</span> neofetch<br>
-        <span style="color: #A855F7; font-weight: bold;">mortada@houmani</span><br>
-        <span style="color: #7E22CE;">---------------</span><br>
-        <span style="color: #C084FC;">Role:</span> Cloud &amp; DevOps Engineer (Junior)<br>
-        <span style="color: #C084FC;">Location:</span> Lebanon<br>
-        <span style="color: #C084FC;">Stack:</span> AWS · Kubernetes · Terraform · NestJS<br>
-        <span style="color: #C084FC;">Building:</span> Something new — details soon<br>
-        <br>
-        <span style="color: #C084FC;">$</span> cat about_me.txt<br>
-        Cloud infrastructure has a way of staying broken in interesting ways — I like being the one who figures out why. I spend most of my time in AWS and Terraform, building systems that are meant to fail safely and recover fast, then stress-testing that assumption on purpose.<br>
-        <br>
-        Right now that's channeled into a new project I'm keeping under wraps until it's ready — expect more here soon.<br>
-        <br>
-        <span style="color: #C084FC;">$</span> <span style="animation: blink 1s infinite;">_</span>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./terminal.svg" alt="Terminal: neofetch and about_me output" width="700" />
+</p>
 
 ---
 
 ## Current Focus
 
-<div align="center">
-  <table style="border: 1px solid #7E22CE; border-radius: 8px; background-color: #0D0B14; width: 100%; max-width: 600px; border-spacing: 0; padding: 20px;">
-    <tr>
-      <td>
-        <h3 style="margin-top: 0; color: #A855F7; display: flex; align-items: center; gap: 8px;">
-          Quarantine
-          <span style="background-color: #7E22CE; color: #FFFFFF; font-size: 11px; padding: 2px 8px; border-radius: 12px; font-family: sans-serif; font-weight: bold; vertical-align: middle;">ACTIVE DEVELOPMENT</span>
-        </h3>
-        <p style="color: #E9D5FF; font-size: 14px; line-height: 1.6;">
-          A hands-on AWS training platform — spin up real cloud environments to practice diagnosing and resolving infrastructure problems.
-        </p>
-        <p style="color: #C084FC; font-size: 13px; font-weight: 600; margin-bottom: 8px;">Technologies:</p>
-        <p>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=aws,docker,terraform,nestjs,react,postgres,redis" alt="Quarantine Tech Stack" />
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./current-focus.svg" alt="Current focus: Quarantine, active development" width="700" />
+</p>
 
 ---
 
@@ -130,10 +85,6 @@
   &nbsp;&nbsp;
   <a href="mailto:mortadahoumani2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-7E22CE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Mortada-Houmani">
-    <img src="https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 

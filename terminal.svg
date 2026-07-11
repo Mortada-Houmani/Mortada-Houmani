@@ -1,0 +1,29 @@
+<svg width="700" height="330" viewBox="0 0 700 330" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace">
+  <rect x="0" y="0" width="700" height="330" rx="10" fill="#0D0B14" stroke="#7E22CE" stroke-width="1.5"/>
+
+  <rect x="0" y="0" width="700" height="38" rx="10" fill="#1A1625"/>
+  <rect x="0" y="28" width="700" height="10" fill="#1A1625"/>
+  <line x1="0" y1="38" x2="700" y2="38" stroke="#7E22CE" stroke-width="1"/>
+
+  <circle cx="26" cy="19" r="6" fill="#EF4444"/>
+  <circle cx="46" cy="19" r="6" fill="#F59E0B"/>
+  <circle cx="66" cy="19" r="6" fill="#10B981"/>
+  <text x="88" y="24" font-size="13" fill="#C084FC">mortada@cloud:~</text>
+
+  <g font-size="14" fill="#E9D5FF">
+    <text x="24" y="66"><tspan fill="#C084FC">$</tspan> neofetch</text>
+    <text x="24" y="88" fill="#A855F7" font-weight="bold">mortada@houmani</text>
+    <text x="24" y="110" fill="#7E22CE">---------------</text>
+
+    <text x="24" y="132"><tspan fill="#C084FC">Role:</tspan> Cloud &amp; DevOps Engineer (Junior)</text>
+    <text x="24" y="154"><tspan fill="#C084FC">Location:</tspan> Lebanon</text>
+    <text x="24" y="176"><tspan fill="#C084FC">Stack:</tspan> AWS · Kubernetes · Terraform · NestJS</text>
+    <text x="24" y="198"><tspan fill="#C084FC">Building:</tspan> Something new — details soon</text>
+
+    <text x="24" y="230"><tspan fill="#C084FC">$</tspan> cat about_me.txt</text>
+    <text x="24" y="252" font-size="13">Cloud infrastructure has a way of staying broken in interesting ways —</text>
+    <text x="24" y="270" font-size="13">I like being the one who figures out why.</text>
+    <text x="24" y="292" font-size="13">Right now that's channeled into a new project I'm keeping under</text>
+    <text x="24" y="310" font-size="13">wraps until it's ready — expect more here soon.</text>
+  </g>
+</svg>

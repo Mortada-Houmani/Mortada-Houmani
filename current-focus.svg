@@ -1,0 +1,33 @@
+<svg width="700" height="190" viewBox="0 0 700 190" xmlns="http://www.w3.org/2000/svg" font-family="Inter, Arial, sans-serif">
+  <rect x="0" y="0" width="700" height="190" rx="10" fill="#0D0B14" stroke="#7E22CE" stroke-width="1.5"/>
+
+  <text x="24" y="42" font-size="20" fill="#A855F7" font-weight="bold">Quarantine</text>
+  <rect x="150" y="26" width="150" height="22" rx="11" fill="#7E22CE"/>
+  <text x="225" y="41" font-size="11" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ACTIVE DEVELOPMENT</text>
+
+  <text x="24" y="74" font-size="14" fill="#E9D5FF">A hands-on AWS training platform — spin up real cloud environments to</text>
+  <text x="24" y="94" font-size="14" fill="#E9D5FF">practice diagnosing and resolving infrastructure problems.</text>
+
+  <text x="24" y="126" font-size="13" fill="#C084FC" font-weight="bold">Technologies:</text>
+
+  <rect x="24" y="136" width="52" height="24" rx="4" fill="#1A1625" stroke="#7E22CE" stroke-width="0.5"/>
+  <text x="50" y="152" font-size="11" fill="#C084FC" text-anchor="middle" font-family="monospace">AWS</text>
+
+  <rect x="84" y="136" width="66" height="24" rx="4" fill="#1A1625" stroke="#7E22CE" stroke-width="0.5"/>
+  <text x="117" y="152" font-size="11" fill="#C084FC" text-anchor="middle" font-family="monospace">Docker</text>
+
+  <rect x="158" y="136" width="82" height="24" rx="4" fill="#1A1625" stroke="#7E22CE" stroke-width="0.5"/>
+  <text x="199" y="152" font-size="11" fill="#C084FC" text-anchor="middle" font-family="monospace">Terraform</text>
+
+  <rect x="248" y="136" width="72" height="24" rx="4" fill="#1A1625" stroke="#7E22CE" stroke-width="0.5"/>
+  <text x="284" y="152" font-size="11" fill="#C084FC" text-anchor="middle" font-family="monospace">NestJS</text>
+
+  <rect x="328" y="136" width="62" height="24" rx="4" fill="#1A1625" stroke="#7E22CE" stroke-width="0.5"/>
+  <text x="359" y="152" font-size="11" fill="#C084FC" text-anchor="middle" font-family="monospace">React</text>
+
+  <rect x="398" y="136" width="84" height="24" rx="4" fill="#1A1625" stroke="#7E22CE" stroke-width="0.5"/>
+  <text x="440" y="152" font-size="11" fill="#C084FC" text-anchor="middle" font-family="monospace">PostgreSQL</text>
+
+  <rect x="490" y="136" width="62" height="24" rx="4" fill="#1A1625" stroke="#7E22CE" stroke-width="0.5"/>
+  <text x="521" y="152" font-size="11" fill="#C084FC" text-anchor="middle" font-family="monospace">Redis</text>
+</svg>
