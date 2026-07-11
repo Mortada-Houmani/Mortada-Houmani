@@ -5,7 +5,7 @@
   <rect x="150" y="26" width="150" height="22" rx="11" fill="#7E22CE"/>
   <text x="225" y="41" font-size="11" fill="#FFFFFF" font-weight="bold" text-anchor="middle">ACTIVE DEVELOPMENT</text>
 
-  <text x="24" y="74" font-size="14" fill="#E9D5FF">A hands-on AWS training platform — spin up real cloud environments to</text>
+  <text x="24" y="74" font-size="14" fill="#E9D5FF">A hands-on AWS training platform: spin up real cloud environments to</text>
   <text x="24" y="94" font-size="14" fill="#E9D5FF">practice diagnosing and resolving infrastructure problems.</text>
 
   <text x="24" y="126" font-size="13" fill="#C084FC" font-weight="bold">Technologies:</text>

@@ -1,5 +1,5 @@
-<svg width="700" height="330" viewBox="0 0 700 330" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace">
-  <rect x="0" y="0" width="700" height="330" rx="10" fill="#0D0B14" stroke="#7E22CE" stroke-width="1.5"/>
+<svg width="700" height="310" viewBox="0 0 700 310" xmlns="http://www.w3.org/2000/svg" font-family="Menlo, Consolas, 'Courier New', monospace">
+  <rect x="0" y="0" width="700" height="310" rx="10" fill="#0D0B14" stroke="#7E22CE" stroke-width="1.5"/>
 
   <rect x="0" y="0" width="700" height="38" rx="10" fill="#1A1625"/>
   <rect x="0" y="28" width="700" height="10" fill="#1A1625"/>
@@ -13,17 +13,16 @@
   <g font-size="14" fill="#E9D5FF">
     <text x="24" y="66"><tspan fill="#C084FC">$</tspan> neofetch</text>
     <text x="24" y="88" fill="#A855F7" font-weight="bold">mortada@houmani</text>
-    <text x="24" y="110" fill="#7E22CE">---------------</text>
 
-    <text x="24" y="132"><tspan fill="#C084FC">Role:</tspan> Cloud &amp; DevOps Engineer (Junior)</text>
-    <text x="24" y="154"><tspan fill="#C084FC">Location:</tspan> Lebanon</text>
-    <text x="24" y="176"><tspan fill="#C084FC">Stack:</tspan> AWS · Kubernetes · Terraform · NestJS</text>
-    <text x="24" y="198"><tspan fill="#C084FC">Building:</tspan> Something new — details soon</text>
+    <text x="24" y="114"><tspan fill="#C084FC">Role:</tspan> Cloud &amp; DevOps Engineer (Junior)</text>
+    <text x="24" y="136"><tspan fill="#C084FC">Location:</tspan> Lebanon</text>
+    <text x="24" y="158"><tspan fill="#C084FC">Stack:</tspan> AWS · Kubernetes · Terraform · NestJS · GitHub Actions</text>
+    <text x="24" y="180"><tspan fill="#C084FC">Building:</tspan> Quarantine</text>
 
-    <text x="24" y="230"><tspan fill="#C084FC">$</tspan> cat about_me.txt</text>
-    <text x="24" y="252" font-size="13">Cloud infrastructure has a way of staying broken in interesting ways —</text>
-    <text x="24" y="270" font-size="13">I like being the one who figures out why.</text>
-    <text x="24" y="292" font-size="13">Right now that's channeled into a new project I'm keeping under</text>
-    <text x="24" y="310" font-size="13">wraps until it's ready — expect more here soon.</text>
+    <text x="24" y="212"><tspan fill="#C084FC">$</tspan> cat about_me.txt</text>
+    <text x="24" y="234" font-size="13">I build cloud infrastructure, backend systems, and deployment</text>
+    <text x="24" y="252" font-size="13">platforms using AWS and modern DevOps practices. Passionate about</text>
+    <text x="24" y="270" font-size="13">designing scalable, production ready solutions and continuously</text>
+    <text x="24" y="288" font-size="13">improving my skills through hands on projects.</text>
   </g>
 </svg>

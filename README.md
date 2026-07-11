@@ -11,13 +11,13 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="./terminal.svg" alt="Terminal: neofetch and about_me output" width="700" />
 </p>
 
----
+
 
 ## Current Focus
 
@@ -25,7 +25,7 @@
   <img src="./current-focus.svg" alt="Current focus: Quarantine, active development" width="700" />
 </p>
 
----
+
 
 ## Tech Stack
 
@@ -60,7 +60,7 @@
   </tr>
 </table>
 
----
+
 
 ## GitHub Analytics
 
@@ -86,10 +86,4 @@
   <a href="mailto:mortadahoumani2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-7E22CE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0b14&height=100&section=footer" alt="Footer" />
 </p>
