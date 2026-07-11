@@ -18,15 +18,6 @@
 </p>
 
 
-
-## Current Focus
-
-<p align="center">
-  <img src="./current-focus.svg" alt="Current focus: Quarantine, active development" width="700" />
-</p>
-
-
-
 ## Tech Stack
 
 <table width="100%">
