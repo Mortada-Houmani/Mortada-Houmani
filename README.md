@@ -30,11 +30,13 @@
         <span style="color: #7E22CE;">---------------</span><br>
         <span style="color: #C084FC;">Role:</span> Cloud &amp; DevOps Engineer (Junior)<br>
         <span style="color: #C084FC;">Location:</span> Lebanon<br>
-        <span style="color: #C084FC;">Stack:</span> AWS · Kubernetes · Terraform · NestJS · GitHub Actions<br>
-        <span style="color: #C084FC;">Building:</span> Quarantine: AWS incident-response trainer<br>
+        <span style="color: #C084FC;">Stack:</span> AWS · Kubernetes · Terraform · NestJS<br>
+        <span style="color: #C084FC;">Building:</span> Something new — details soon<br>
         <br>
         <span style="color: #C084FC;">$</span> cat about_me.txt<br>
-        I build cloud infrastructure, backend systems, and platforms using AWS and modern DevOps practices. Passionate about designing scalable, production ready solutions and continuously improving my skills through hands on projects.<br>
+        Cloud infrastructure has a way of staying broken in interesting ways — I like being the one who figures out why. I spend most of my time in AWS and Terraform, building systems that are meant to fail safely and recover fast, then stress-testing that assumption on purpose.<br>
+        <br>
+        Right now that's channeled into a new project I'm keeping under wraps until it's ready — expect more here soon.<br>
         <br>
         <span style="color: #C084FC;">$</span> <span style="animation: blink 1s infinite;">_</span>
       </td>
@@ -45,7 +47,7 @@
 ---
 
 ## Current Focus
- 
+
 <div align="center">
   <table style="border: 1px solid #7E22CE; border-radius: 8px; background-color: #0D0B14; width: 100%; max-width: 600px; border-spacing: 0; padding: 20px;">
     <tr>
@@ -55,7 +57,7 @@
           <span style="background-color: #7E22CE; color: #FFFFFF; font-size: 11px; padding: 2px 8px; border-radius: 12px; font-family: sans-serif; font-weight: bold; vertical-align: middle;">ACTIVE DEVELOPMENT</span>
         </h3>
         <p style="color: #E9D5FF; font-size: 14px; line-height: 1.6;">
-          A hands-on AWS training platform spin up real cloud environments to practice diagnosing and resolving infrastructure problems.
+          A hands-on AWS training platform — spin up real cloud environments to practice diagnosing and resolving infrastructure problems.
         </p>
         <p style="color: #C084FC; font-size: 13px; font-weight: 600; margin-bottom: 8px;">Technologies:</p>
         <p>
@@ -71,7 +73,7 @@
 ---
 
 ## Tech Stack
- 
+
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
@@ -128,6 +130,11 @@
   &nbsp;&nbsp;
   <a href="mailto:mortadahoumani2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-7E22CE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Mortada-Houmani">
+    <img src="https://img.shields.io/badge/GitHub-0D0B14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---
