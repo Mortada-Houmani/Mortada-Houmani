@@ -103,47 +103,6 @@
   </tr>
 </table>
 
-## Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" style="border: 1px solid #7E22CE; border-radius: 8px; padding: 15px; background-color: #0D0B14;" valign="top">
-      <h4 style="margin: 0 0 10px 0; color: #A855F7;">Quarantine</h4>
-      <p style="margin: 0; font-size: 13px; color: #E9D5FF; line-height: 1.4;">
-        Incident-response training simulator running real ephemeral AWS environments with injected faults and scored diagnostics.
-      </p>
-      <br />
-      <code>AWS ECS Fargate</code> <code>Terraform</code> <code>BullMQ</code> <code>NestJS</code>
-    </td>
-    <td width="50%" style="border: 1px solid #7E22CE; border-radius: 8px; padding: 15px; background-color: #0D0B14;" valign="top">
-      <h4 style="margin: 0 0 10px 0; color: #A855F7;">Kereo</h4>
-      <p style="margin: 0; font-size: 13px; color: #E9D5FF; line-height: 1.4;">
-        A self-hosted deployment platform that allows developers to deploy containerized applications directly to AWS ECS.
-      </p>
-      <br />
-      <code>AWS ECS</code> <code>Terraform</code> <code>Docker</code> <code>GitHub Actions</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="border: 1px solid #7E22CE; border-radius: 8px; padding: 15px; background-color: #0D0B14;" valign="top">
-      <h4 style="margin: 0 0 10px 0; color: #A855F7;">Secure Kubernetes Cluster</h4>
-      <p style="margin: 0; font-size: 13px; color: #E9D5FF; line-height: 1.4;">
-        A high-availability Kubernetes cluster lab designed with strict network policies, RBAC, and monitoring.
-      </p>
-      <br />
-      <code>Kubernetes</code> <code>Docker</code> <code>Calico</code> <code>Prometheus</code>
-    </td>
-    <td width="50%" style="border: 1px solid #7E22CE; border-radius: 8px; padding: 15px; background-color: #0D0B14;" valign="top">
-      <h4 style="margin: 0 0 10px 0; color: #A855F7;">CostLens</h4>
-      <p style="margin: 0; font-size: 13px; color: #E9D5FF; line-height: 1.4;">
-        A modern cloud cost monitoring application that tracks and analyzes spending across cloud resources.
-      </p>
-      <br />
-      <code>Node.js</code> <code>AWS API</code> <code>TailwindCSS</code>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## GitHub Analytics
