@@ -20,9 +20,9 @@
     <text x="24" y="180"><tspan fill="#C084FC">Building:</tspan> Quarantine</text>
 
     <text x="24" y="212"><tspan fill="#C084FC">$</tspan> cat about_me.txt</text>
-    <text x="24" y="234" font-size="13">I build cloud infrastructure, backend systems, and deployment</text>
-    <text x="24" y="252" font-size="13">platforms using AWS and modern DevOps practices. Passionate about</text>
-    <text x="24" y="270" font-size="13">designing scalable, production ready solutions and continuously</text>
-    <text x="24" y="288" font-size="13">improving my skills through hands on projects.</text>
+    <text x="24" y="234" font-size="13">Computer Science student focused on cloud and DevOps engineering, with</text>
+    <text x="24" y="252" font-size="13">a strong grounding in backend development. Experienced in provisioning</text>
+    <text x="24" y="270" font-size="13">cloud infrastructure, containerizing and orchestrating services, and</text>
+    <text x="24" y="288" font-size="13">automating deployment pipelines for real world backend applications.</text>
   </g>
 </svg>
